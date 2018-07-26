@@ -3,7 +3,7 @@
 
 Etape 1:   
 
-    > git clone https://github.com/SatanPetitCoeur/06_DoctorTHP
+    > git clone https://github.com/SatanPetitCoeur/06_DoctorTHP.git
 
 Etape 2: 
 
